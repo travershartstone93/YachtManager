@@ -1,0 +1,10 @@
+build/
+__pycache__/
+.venv/
+*.pyc
+fleet.db
+fleet_specs.csv
+fleet_overrides.txt
+images/
+errs.txt
+CLAUDE.md
